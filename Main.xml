@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<book>
+  <title>The Epic Tale</title>
+  <author>Dark Writer</author>
+  <author>Imaginative Scribe</author>
+  <chapter>
+    <title>Hello</title>
+    <paragraph>Hello</paragraph>
+    <paragraph>Hello</paragraph>
+  </chapter>
+  <chapter>
+    <title>Hello</title>
+    <paragraph>Test</paragraph>
+    <paragraph>Hello</paragraph>
+  </chapter>
+  </book>
+<?xml-stylesheet type="text/xsl" href="A.xsl"?>
